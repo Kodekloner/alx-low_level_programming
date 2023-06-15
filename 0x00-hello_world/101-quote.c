@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include <unistd.h>
 /**
  * main - A c program that prints a line of the standard error
